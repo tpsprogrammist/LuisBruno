@@ -1,0 +1,58 @@
+*{
+
+}
+
+body{
+	font-family: Arial;
+	font-size: 16px;
+	text-align: center;
+	background-color: #f2f2f2;
+
+}
+
+header{
+
+}
+
+article{
+
+}
+
+footer{
+	clear: both;
+	display: block;
+	position: fixed;
+	bottom: 10px;
+	width: 100%
+}
+
+p{
+
+}
+
+h1{
+
+}
+
+h2{
+
+}
+
+h3{
+
+}
+
+h4{
+
+}
+
+
+a{
+	text-decoration: none;
+}
+
+
+.link{
+
+}
+
